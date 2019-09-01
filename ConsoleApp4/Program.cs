@@ -7,6 +7,8 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine(" {0:c}", 123456);
+
         }
     }
 }
